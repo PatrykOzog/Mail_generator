@@ -1,5 +1,5 @@
 S = "John Doe; Peter Benjamin Parker; Mary Jane Watson-Parker; John Elvis Doe; John Evan Doe; Jane Doe; Peter Brian Parker"
-C = "Gmail"
+C = "Example"
 def solution(S, C):
     list_of_names = []
     odp = ""
